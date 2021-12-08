@@ -1,4 +1,4 @@
-## DESAFIOS HTML - por RocketSet :purple_heart:
+## DESAFIOS HTML - por RocketSeat :purple_heart:
 
 Essa é uma série de desafios básicos para praticar seus conhecimentos em HTML desenvolvido na trilha Discover pela Rocketseat. 
 
